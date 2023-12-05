@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Packages/de.codesmile.editorinspector/Editor/UI%20Documents/EditorInspector.uss?fileID=7433441132597879392&amp;guid=78a31f3d7ae87ea428d29ca31f80d510&amp;type=3#EditorInspector" />
+</ui:UXML>

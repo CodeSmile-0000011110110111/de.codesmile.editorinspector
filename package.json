@@ -1,0 +1,19 @@
+{
+  "name": "de.codesmile.editorinspector",
+  "displayName": "CodeSmile Editor Inspector",
+  "description": "Inspect active instances of Editor and EditorWindow.",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "unityRelease": "3f1",
+  "author": {
+    "name": "Steffen Itterheim aka 'CodeSmile' (Unity MVP, Self-Employed)",
+    "email": "steffen@steffenitterheim.de",
+    "url": "https://codesmile.de"
+  },
+  "changelogUrl": "https://github.com/CodeSmile-0000011110110111/de.codesmile.editorinspector",
+  "documentationUrl": "https://github.com/CodeSmile-0000011110110111/de.codesmile.editorinspector",
+  "licensesUrl": "https://github.com/CodeSmile-0000011110110111/de.codesmile.editorinspector",
+  "dependencies": {
+  },
+  "relatedPackages": {}
+}
